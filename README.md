@@ -4,11 +4,13 @@
 
 # Pulcro
 
-**Limpieza y mantenimiento para Windows 10 y 11.** Gratis, sin anuncios y en español.
+**Limpieza, seguridad y mantenimiento para Windows 10/11 y Android.** Gratis, sin anuncios y en español.
 
 ### [⬇ Descargar la última versión](https://github.com/felimena-maker/pulcro-releases/releases/latest)
 
-En la página que se abre, descarga el archivo **`Pulcro_x.y.z_x64-setup.exe`** y ejecútalo.
+En la página que se abre, descarga:
+- **Windows:** `Pulcro_x.y.z_x64-setup.exe`
+- **Android 11 o posterior:** `Pulcro-android-x.y.z.apk`
 
 ## Qué hace
 
@@ -20,7 +22,15 @@ En la página que se abre, descarga el archivo **`Pulcro_x.y.z_x64-setup.exe`** 
 - **Analizador de disco.** Lo que más ocupa y los archivos duplicados, con vista previa.
 - **Limpieza automática** programada, aunque no abras la app.
 - **Icono en la bandeja** que te avisa cuando hay mucho para limpiar.
+- **Seguridad:** controla Microsoft Defender (análisis rápido, completo o de una carpeta) y revisa lo que el antivirus no mira: programas que arrancan solos con técnicas de malware, archivo hosts, firewall, UAC y SmartScreen.
+- **Optimizar unidades:** TRIM en SSD y desfragmentación en discos duros.
 - **Actualizaciones automáticas** firmadas.
+
+## Pulcro para Android
+
+Sin root y de 2 MB: revisión del teléfono con nota de 0 a 100, limpieza de instaladores ya usados, miniaturas, temporales y estados de WhatsApp (con papelera de 7 días), las apps con más caché, apps sin usar y una auditoría de seguridad (apps que controlan la pantalla, administran el teléfono o leen notificaciones, parche de seguridad, depuración USB).
+
+Para instalarlo, abre el `.apk` en el teléfono y permite instalar apps de esa fuente cuando Android lo pida. Al abrir Pulcro, concede «acceso a todos los archivos» y «acceso a datos de uso»: sin ellos no puede buscar basura ni medir las apps.
 
 ## Sin miedo a romper nada
 
