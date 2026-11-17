@@ -32,6 +32,10 @@ Sin root y de 2 MB: revisión del teléfono con nota de 0 a 100, limpieza de ins
 
 Para instalarlo, abre el `.apk` en el teléfono y permite instalar apps de esa fuente cuando Android lo pida. Al abrir Pulcro, concede «acceso a todos los archivos» y «acceso a datos de uso»: sin ellos no puede buscar basura ni medir las apps.
 
+<p align="center">
+  <img src="img/android.png" alt="Pulcro para Android" width="50%">
+</p>
+
 ## Sin miedo a romper nada
 
 - **Papelera de seguridad:** lo que Pulcro limpia se puede recuperar durante 24 horas.
@@ -42,6 +46,11 @@ Para instalarlo, abre el `.apk` en el teléfono y permite instalar apps de esa f
   <img src="img/limpieza.png" alt="Pestaña Limpieza de Pulcro" width="49%">
   <img src="img/historial.png" alt="Pestaña Historial de Pulcro" width="49%">
 </p>
+<p align="center">
+  <img src="img/seguridad.png" alt="Pestaña Seguridad de Pulcro" width="49%">
+  <img src="img/disco.png" alt="Pestaña Disco de Pulcro: optimizar unidades" width="49%">
+</p>
+<p align="center"><sub>Capturas con datos de ejemplo.</sub></p>
 
 ## Instalación
 
