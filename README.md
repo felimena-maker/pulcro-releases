@@ -28,7 +28,13 @@ En la página que se abre, descarga:
 
 ## Pulcro para Android
 
-Sin root y de 2 MB: revisión del teléfono con nota de 0 a 100, limpieza de instaladores ya usados, miniaturas, temporales y estados de WhatsApp (con papelera de 7 días), las apps con más caché, apps sin usar y una auditoría de seguridad (apps que controlan la pantalla, administran el teléfono o leen notificaciones, parche de seguridad, depuración USB).
+Sin root y de 2 MB:
+
+- **Revisión del teléfono** con nota de 0 a 100 y lo que llevas limpiado.
+- **Limpieza:** instaladores ya usados, miniaturas, temporales, estados de WhatsApp, restos de apps desinstaladas y descargas a medias, con papelera de 7 días. Muestra también las apps con más caché.
+- **Analizador de almacenamiento:** qué ocupa cada tipo de archivo, duplicados exactos (conserva el original), archivos grandes, fotos, vídeos, audios y documentos de WhatsApp y Telegram por antigüedad, y capturas de pantalla antiguas.
+- **Limpieza en un toque** desde los ajustes rápidos o el icono, y un aviso semanal opcional cuando hay más de 200 MB que limpiar.
+- **Apps sin usar** y **auditoría de seguridad:** apps que controlan la pantalla, administran el teléfono o leen notificaciones, parche de seguridad y depuración USB.
 
 Para instalarlo, abre el `.apk` en el teléfono y permite instalar apps de esa fuente cuando Android lo pida. Al abrir Pulcro, concede «acceso a todos los archivos» y «acceso a datos de uso»: sin ellos no puede buscar basura ni medir las apps.
 
