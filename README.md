@@ -14,7 +14,11 @@ En la página que se abre, descarga:
 
 ## Qué hace
 
-- **Revisión en un clic.** Una nota de 0 a 100 y qué conviene arreglar primero.
+<p align="center">
+  <img src="img/panel.png" alt="Panel de Pulcro: nota del equipo, basura, seguridad, arranque y disco" width="100%">
+</p>
+
+- **Panel en un clic.** Una nota de 0 a 100, el estado de la basura, la seguridad, el arranque y el disco, y qué conviene arreglar primero.
 - **Limpieza profunda.** Temporales, cachés de Edge, Chrome, Brave, Opera y Firefox, papelera, informes de errores, caché de actualizaciones, Windows.old y más.
 - **Historial y cookies del navegador**, conservando las sesiones de los sitios que elijas.
 - **Arranque más rápido.** Activa o desactiva los programas que se abren al encender.
@@ -28,7 +32,7 @@ En la página que se abre, descarga:
 
 ## Pulcro para Android
 
-Sin root y de 2 MB:
+Sin root y de 2 MB, con la misma interfaz de panel y menú lateral:
 
 - **Revisión del teléfono** con nota de 0 a 100 y lo que llevas limpiado.
 - **Limpieza:** instaladores ya usados, miniaturas, temporales, estados de WhatsApp, restos de apps desinstaladas y descargas a medias, con papelera de 7 días. Muestra también las apps con más caché.
